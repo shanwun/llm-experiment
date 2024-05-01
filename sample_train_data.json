@@ -1,5 +1,5 @@
 {
-  "active_users-age": [
+  "engagement.active_users_x_age": [
     "How many members in their 40s have logged into the pension app in the past month?",
     "What's the recent trend in web activity among members aged 55 and above?",
     "Have there been more logins to the online portal by those under 30 in the last 3 months?",
@@ -83,7 +83,7 @@
     "What's the overall trend in online interaction among members across different age groups?",
     "Are there any noticeable differences in online engagement between members aged 20-30 and members aged 40-50?"
   ],
-  "active_users-gender": [
+  "engagement.active_users_x_gender": [
     "Can you tell me how many women have logged into the pension website in the past month?",
     "What's the recent trend in online engagement for male members of the pension scheme?",
     "How many times have females used the app to check their pension details in the last three weeks?",
@@ -165,7 +165,7 @@
     "How many women have used the pension app in the past six months?",
     "Is there a noticeable trend in online usage among female members?"
   ],
-  "active_users-none": [
+  "engagement.active_users": [
     "How frequently have members been logging into their pension accounts online lately?",
     "Can you provide insights into the recent uptick in members accessing their pensions through the app?",
     "What's the current pattern in terms of members using online services for pension management?",
@@ -246,7 +246,7 @@
     "How frequently are members using digital platforms for pension management?",
     "Is there a change in the frequency of web logins for pensions compared to last year?"
   ],
-  "active_users-salary": [
+  "engagement.active_users_x_salary": [
     "What's the recent trend in online engagement for members earning over 60k?",
     "Have higher paid employees shown an increase in app usage for pension management in the last 3 months?",
     "How many members with salaries exceeding 40k have logged into the pension website in the past week?",
@@ -339,7 +339,7 @@
     "How does online engagement among employees earning less than £60,000 compare to those earning more than £80,000 in the past 6 months?",
     "Has there been a consistent increase in online usage among employees with salaries below £70,000 since the start of 2023?"
   ],
-  "active_users-years_in_scheme": [
+  "engagement.active_users_x_years_in_scheme": [
     "Have members with longer tenure in the scheme shown an increase in logging into the pension website or app in the past year?",
     "Over the last 5 years, what's the shift in online activity for those who've been with the scheme for more than 3 years?",
     "Are there any noticeable patterns in app usage for members who've been in the scheme since 2019?",
@@ -420,7 +420,7 @@
     "Is there a noticeable difference in the usage of online services between long-serving members and recent joiners?",
     "How has the online engagement of members evolved over the past 5 years, particularly in relation to their length of membership?"
   ],
-  "active_users-years_to_retirement": [
+  "engagement.active_users_x_years_to_retirement": [
     "What is the trend in online activity for members nearing retirement compared to newer members over the past 5 years?",
     "Have there been changes in the number of retirees logging into the website or app recently?",
     "How has the use of online services evolved for members close to retirement from 2019 to 2023?",
@@ -498,7 +498,7 @@
     "What's the pattern of online engagement among members who are within 5 years of retirement?",
     "Do members who are closer to retirement demonstrate a greater preference for online pension management?"
   ],
-  "fund_switching-age": [
+  "investments.fund_switching_x_age": [
     "What's the frequency of fund switches among members aged 40-50 over the past 5 years?",
     "Have there been notable changes in fund choices among members in their 30s from 2018 to 2023?",
     "Are younger members (20-30) shifting their pension investments frequently?",
@@ -582,7 +582,7 @@
     "What's the trend in fund changes among members aged 45-55?",
     "Are fund changes more frequent among members under 40 or over 50?"
   ],
-  "fund_switching-gender": [
+  "investments.fund_switching_x_gender": [
     "What's the rate of fund-switching among male members over the past 5 years?",
     "Are there noticeable trends in how often female members switch their investment funds?",
     "How has the frequency of changing pension funds evolved for both genders from 2019 to 2023?",
@@ -663,7 +663,7 @@
     "How many male and female members modified the fund where their pensions were invested in 2022?",
     "Did male members tend to change the investment funds of their pensions between 2021 and 2024?"
   ],
-  "fund_switching-none": [
+  "investments.fund_switching": [
     "How many members switch funds in their pension scheme?",
     "Do members frequently change their pension investments?",
     "Are members modifying their pension fund allocations?",
@@ -746,7 +746,7 @@
     "What's the trend in the number of members modifying their pension fund choices between 2021 and 2024?",
     "Can you provide insights into changes in members' pension fund selections between 2021 and 2024?"
   ],
-  "fund_switching-salary": [
+  "investments.fund_switching_x_salary": [
     "What's the trend in fund-switching behavior among high earners over the last 5 years?",
     "Have there been changes in fund preferences for employees earning above 40k during the past few years?",
     "Do lower-paid members (<25k) show any significant shifts in their pension fund choices over the last 3 years?",
@@ -828,7 +828,7 @@
     "Have members earning over 110k been modifying their pension funds?",
     "Do members earning less than 5k exhibit a trend of changing their pension investments?"
   ],
-  "fund_switching-years_in_scheme": [
+  "investments.fund_switching_x_years_in_scheme": [
     "Do members tend to switch funds more often the longer they've been in the scheme?",
     "Are there noticeable trends in fund-switching behavior based on the duration of membership?",
     "How does the frequency of changing funds correlate with the length of time a member has been in the scheme?",
@@ -908,7 +908,7 @@
     "Are newer members more likely to switch their investment allocations compared to those with longer membership?",
     "Do members who have been in the scheme for a longer period tend to maintain their investment allocations?"
   ],
-  "fund_switching-years_to_retirement": [
+  "investments.fund_switching_x_years_to_retirement": [
     "Do members closer to retirement tend to switch their investment funds more frequently?",
     "Are there changes in the frequency of fund changes among members nearing retirement?",
     "How has the rate of fund modifications among those nearing retirement evolved over the past 5 years?",
@@ -990,7 +990,7 @@
     "Have members nearing retirement age been adjusting their pension investments more frequently?",
     "Are those nearing retirement more inclined to modify their pension fund allocations?"
   ],
-  "fund_value-age": [
+  "investments.fund_value_x_age": [
     "What's the average pension pot for members in their 30s?",
     "Tell me about the pension savings of members aged 40-50.",
     "How much do members in their early 20s usually have saved in their retirement funds?",
@@ -1032,7 +1032,7 @@
     "What's the general trend in pension fund sizes for members aged 30-40 over the past five years?",
     "Tell me about the variations in pension savings for members under 25 in 2021."
   ],
-  "fund_value-gender": [
+  "investments.fund_value_x_gender": [
     "How many members, broken down by gender, have a retirement nest egg exceeding 200k?",
     "Can you provide insights into the distribution of pension funds among male and female members?",
     "What percentage of female members have seen an increase in their pension values over the past year?",
@@ -1072,7 +1072,7 @@
     "What percentage of male members have seen a decrease in their pension values over the last two years?",
     "How do the pension values of female members compare to the overall average for the past five years?"
   ],
-  "fund_value-none": [
+  "investments.fund_value": [
     "What's the count of members with a pension fund over 150k?",
     "How many members' retirement savings exceed 200k?",
     "Can you provide insights into the number of members with a pension pot valued at 75k or more?",
@@ -1114,7 +1114,7 @@
     "Provide insights into the percentage change in members' pension funds from 2017 to 2020.",
     "How many members had a pension worth between 80k-120k in 2023?"
   ],
-  "fund_value-salary": [
+  "investments.fund_value_x_salary": [
     "What percentage of members earning between 40k-50k have a pension fund worth more than 150k?",
     "How do the pension savings of employees making 60k+ compare to those earning 30k-40k?",
     "Are there more members with a pension pot over 200k among those earning 70k-80k or 80k-90k?",
@@ -1156,7 +1156,7 @@
     "Compare the pension values of those earning 75k-85k to those in the 85k-100k range.",
     "What percentage of members with a salary between 55k-65k have a pension fund over 160k?"
   ],
-  "fund_value-years_in_scheme": [
+  "investments.fund_value_x_years_in_scheme": [
     "How many members with an extended history in the scheme have accumulated more than 150k in their pension pot?",
     "What's the count of individuals who have been part of the scheme for quite some time and have saved over 200k in their retirement fund?",
     "Tell me the number of long-time members with pension values exceeding 120k.",
@@ -1196,7 +1196,7 @@
     "What's the distribution of pension funds for individuals who have been members for a considerable period?",
     "How do pension values for individuals with a significant tenure compare to those who've recently joined the scheme?"
   ],
-  "fund_value-years_to_retirement": [
+  "investments.fund_value_x_years_to_retirement": [
     "How much do members close to retirement typically have in their pension funds?",
     "Can you give me an idea of the average pension fund size for those approaching retirement?",
     "What's the usual pension value for employees nearing retirement?",
@@ -1237,13 +1237,13 @@
     "Any observations on the pension savings trends for individuals nearing retirement?",
     "How much do employees near retirement usually have saved in their pension funds?"
   ],
-  "investment_choice-age": [],
-  "investment_choice-gender": [],
-  "investment_choice-none": [],
-  "investment_choice-salary": [],
-  "investment_choice-years_in_scheme": [],
-  "investment_choice-years_to_retirement": [],
-  "joiners_and_leavers-age": [
+  "investments.investment_choice_x_age": [],
+  "investments.investment_choice_x_gender": [],
+  "investments.investment_choice": [],
+  "investments.investment_choice_x_salary": [],
+  "investments.investment_choice_x_years_in_scheme": [],
+  "investments.investment_choice_x_years_to_retirement": [],
+  "membership.joiners_and_leavers_x_age": [
     "How many scheme members in their 20s joined the pension scheme in the last quarter?",
     "What is the current count of new scheme members in their 30s?",
     "Can you provide insights into the trend of scheme membership changes for employees in their 40s over the past 5 years?",
@@ -1280,7 +1280,7 @@
     "Are there distinct patterns in scheme membership changes for different age groups over different time periods?",
     "How do the trends in scheme membership changes differ for specific ages?"
   ],
-  "joiners_and_leavers-gender": [
+  "membership.joiners_and_leavers_x_gender": [
     "How many female employees joined the pension scheme in the last quarter?",
     "What is the current count of new male scheme members?",
     "Can you provide insights into the trend of female members joining the scheme over the past 5 years?",
@@ -1317,7 +1317,7 @@
     "Are there distinct patterns in scheme membership changes for female and male members over different time periods?",
     "How do the trends in scheme membership changes differ for female and male members in specific quarters?"
   ],
-  "joiners_and_leavers-none": [
+  "membership.joiners_and_leavers": [
     "How many employees joined the scheme in the last quarter?",
     "What is the current count of members joining the pension scheme?",
     "Can you provide insights into the trend of new members joining the scheme over the past 5 years?",
@@ -1354,7 +1354,7 @@
     "Are there distinct patterns in scheme membership changes over different time periods?",
     "How do the trends in scheme membership changes differ for specific years and quarters?"
   ],
-  "joiners_and_leavers-salary": [
+  "membership.joiners_and_leavers_x_salary": [
     "How many members with salaries over 50k are joining the scheme compared to those leaving?",
     "What is the current trend in scheme membership changes for employees with salaries under 30k?",
     "Can you provide insights into the enrollment patterns of members with salaries between 40k and 60k over the past 5 years?",
@@ -1391,8 +1391,8 @@
     "Are there distinct patterns in scheme membership changes for employees with salaries over 70k over different time periods?",
     "How do the trends in scheme membership changes for employees with salaries over 80k differ over specific years and quarters?"
   ],
-  "joiners_and_leavers-years_in_scheme": [],
-  "joiners_and_leavers-years_to_retirement": [
+  "membership.joiners_and_leavers_x_years_in_scheme": [],
+  "membership.joiners_and_leavers_x_years_to_retirement": [
     "How many scheme members close to retiring have joined the scheme recently?",
     "What is the current count of new scheme members who are nearing retirement?",
     "Can you provide insights into the trend of members close to retiring joining the scheme over the past 5 years?",
@@ -1429,7 +1429,7 @@
     "Are there distinct patterns in scheme membership changes for members close to retiring over different time periods?",
     "How do the trends in scheme membership changes differ for specific years to retirement and quarters?"
   ],
-  "log_ins-age": [
+  "engagement.log_ins_x_age": [
     "How many young scheme members (under 25) have logged into their pension accounts online?",
     "What's the trend of older members (50 and above) logging into digital services over the past 5 years?",
     "How many people under age 40 logged into their pension accounts in the last month?",
@@ -1468,7 +1468,7 @@
     "Are there any specific years showing significant growth or decline in online pension account logins for members aged 25-30?",
     "What's the current count of members aged 50 and above using online platforms to manage their pension?"
   ],
-  "log_ins-gender": [
+  "engagement.log_ins_x_gender": [
     "How many male scheme members have logged into their pension accounts online?",
     "What's the trend of male members engaging with digital services over the past 5 years?",
     "How many females logged into their accounts in the last month?",
@@ -1507,7 +1507,7 @@
     "Are there any specific years showing significant growth or decline in online pension account logins for males?",
     "What's the current count of females using online platforms to manage their pension?"
   ],
-  "log_ins-none": [
+  "engagement.log_ins": [
     "How many scheme members have logged into their pension accounts online?",
     "What's the trend of members engaging with digital services over the past 5 years?",
     "How many people logged into their accounts in the last month?",
@@ -1546,7 +1546,7 @@
     "Are there any specific years showing significant growth or decline in online pension account logins?",
     "What's the current count of members using online platforms to manage their pension?"
   ],
-  "log_ins-salary": [
+  "engagement.log_ins_x_salary": [
     "How many members earning less than 40k have logged into their pension accounts online?",
     "What's the trend of lower-earning members engaging with digital services over the past 5 years?",
     "How many high earners (70k+) logged into their pension accounts in the last month?",
@@ -1585,7 +1585,7 @@
     "Are there any specific years showing significant growth or decline in online pension account logins for those earning 70k-90k?",
     "What's the current count of members earning over 90k using online platforms to manage their pension?"
   ],
-  "log_ins-years_in_scheme": [
+  "engagement.log_ins_x_years_in_scheme": [
     "How many members with less than a year in the scheme have logged in online?",
     "Do members with longer tenure in the scheme tend to log into digital services more?",
     "How many relatively new members (less than 2 years in the scheme) logged in the last month?",
@@ -1624,7 +1624,7 @@
     "How frequently are members with 4-5 years in the scheme logging into their pension accounts?",
     "Count of members with more than 1 year in the scheme who accessed their pension information online within the last 6 months?"
   ],
-  "log_ins-years_to_retirement": [
+  "engagement.log_ins_x_years_to_retirement": [
     "How many members close to retirement have logged into their pension accounts online?",
     "Do members nearing retirement tend to use digital services for pension access more often?",
     "How many members planning to retire within a year have engaged with online pension tools?",
@@ -1662,7 +1662,7 @@
     "Are there any specific years showing significant growth or decline in online pension account logins for members close to retirement?",
     "What's the current count of members close to retirement using online platforms to manage their pension?"
   ],
-  "members-age": [
+  "membership.members_x_age": [
     "How many members in the scheme are below 30 years old?",
     "Is the scheme predominantly composed of younger or older members? How is that changing over time?",
     "How many members were under 25 between 2021 and 2022?",
@@ -1709,7 +1709,7 @@
     "Are there any noticeable trends in age distribution during specific months?",
     "Provide a comparison of age distribution between the current year and a year ago."
   ],
-  "members-gender": [
+  "membership.members_x_gender": [
     "How many members in scheme are male?",
     "Is the scheme made up of mostly female members or male ones? How is that changing over time?",
     "How many female members were there between 2021 and 2022?",
@@ -1754,7 +1754,7 @@
     "Are there any noticeable trends in male and female scheme membership during specific months?",
     "Provide a comparison of male and female scheme membership between the current year and a year ago."
   ],
-  "members-none": [
+  "membership.members": [
     "What's the current headcount of scheme members?",
     "Can you provide an overview of the member count for the past 5 years?",
     "Tell me about any spikes or drops in scheme membership over the last 12 months.",
@@ -1795,7 +1795,7 @@
     "Are there any noticeable trends in scheme membership during specific months?",
     "Provide a comparison of scheme membership between the current year and a year ago."
   ],
-  "members-salary": [
+  "membership.members_x_salary": [
     "How many members in scheme earn less than 25k?",
     "Is the scheme made up of mostly higher paid members (>60k) or lower earners? How is that changing over time?",
     "How many members were there between 2021 and 2022 who were earning more than 30k?",
@@ -1837,7 +1837,7 @@
     "Tell me about any unusual patterns in the salary levels of scheme members over the past 5 years.",
     "What's the average salary for scheme members in the second quarter of 2022?"
   ],
-  "members-years_in_scheme": [
+  "membership.members_x_years_in_scheme": [
     "How many members in the scheme have joined within the past 12 months?",
     "Is the majority of the scheme composed of recent members or long-time participants? How is this evolving?",
     "What's the count of members who have been in the scheme for less than a year?",
@@ -1877,7 +1877,7 @@
     "What's the current proportion of members who joined in 2023 and had already been in the pension scheme for over 2 years?",
     "Describe the variations in the tenure of scheme members throughout the past half-decade."
   ],
-  "members-years_to_retirement": [
+  "membership.members_x_years_to_retirement": [
     "How many members in the scheme are approaching retirement in the latest data?",
     "Can you provide an overview of the trend in members close to retirement versus those further away over the past 5 years?",
     "Tell me about the number of members close to retirement in the last 12 months.",
@@ -1918,7 +1918,7 @@
     "Are there any noticeable trends in the count of members close to retirement during specific months?",
     "Provide a comparison of the count of members close to retirement between the current year and a year ago."
   ],
-  "nominated_beneficaries-age": [
+  "engagement.nom_ben_x_age": [
     "What's the current count of members under 30 years old who have nominated a beneficiary?",
     "How many members aged 40-50 have nominated a beneficiary in the latest dataset?",
     "Can you provide the trend in the number of members over 60 nominating beneficiaries over the past 5 years?",
@@ -1960,7 +1960,7 @@
     "What's the current ratio of members aged 40-50 who have nominated a beneficiary compared to the total in the scheme?",
     "How does the percentage of members over 55 nominating beneficiaries differ from the overall average?"
   ],
-  "nominated_beneficaries-gender": [
+  "engagement.nom_ben_x_gender": [
     "How many male members have nominated a beneficiary in the latest dataset?",
     "What's the current ratio of female to male members who have nominated a beneficiary?",
     "Did the number of male members nominating a beneficiary increase or decrease in Q1 of this year?",
@@ -2001,7 +2001,7 @@
     "How does the nomination rate for female members in 2024 compare to the rate for male members in 2023?",
     "Did more females or males nominate beneficiaries in specific months of the past year?"
   ],
-  "nominated_beneficaries-none": [
+  "engagement.nom_ben": [
     "How many employees have designated a beneficiary in the latest dataset?",
     "Can you provide the count of members who nominated a beneficiary in the most recent data?",
     "What percentage of scheme members have nominated a beneficiary in the current year?",
@@ -2042,7 +2042,7 @@
     "What is the percentage of members with nominated beneficiaries a year ago from the current date?",
     "Did the rate of members designating beneficiaries show any unusual patterns in the past 5 years?"
   ],
-  "nominated_beneficaries-salary": [
+  "engagement.nom_ben_x_salary": [
     "How many members earning over 50k nominated a beneficiary in the latest dataset?",
     "What is the current ratio of members earning less than 40k to those earning 40k or more, in terms of beneficiary nominations?",
     "Did the number of members earning less than 30k nominating a beneficiary increase or decrease in Q1 of this year?",
@@ -2084,7 +2084,7 @@
     "Have there been any spikes in the number of members earning 70k-80k nominating beneficiaries during specific months?",
     "What is the overall change in the number of members earning 80k-90k nominating a beneficiary from the first year to the last year in the dataset?"
   ],
-  "nominated_beneficaries-years_in_scheme": [
+  "engagement.nom_ben_x_years_in_scheme": [
     "What's the percentage of members who joined the scheme in the last year and have nominated a beneficiary?",
     "Have members who've been in the scheme for 3-5 years shown an increasing trend in nominating beneficiaries?",
     "How does the nomination rate differ between those who joined the scheme in the past two years and those who joined three to five years ago?",
@@ -2126,7 +2126,7 @@
     "What's the trend in beneficiary nominations for members who joined the scheme 5 years ago?",
     "Have members who've been in the scheme for 5 years or more shown any gradual changes in nominating beneficiaries over the past year?"
   ],
-  "nominated_beneficaries-years_to_retirement": [
+  "engagement.nom_ben_x_years_to_retirement": [
     "How many members within 5 years of retirement have nominated a beneficiary?",
     "Do members closer to retirement show a higher tendency to nominate beneficiaries?",
     "In the latest data, what percentage of members due to retire in the next 3 years have filled in a beneficiary form?",
@@ -2167,7 +2167,7 @@
     "Have there been any spikes in the number of members within 6 years of retirement nominating beneficiaries during specific months?",
     "What is the overall change in the number of members within 3 years of retirement nominating a beneficiary from the first year to the last year in the dataset?"
   ],
-  "payments_in-age": [
+  "membership.payments_in_x_age": [
     "How do employer regular contributions for members aged 40-50 compare to their single payments over the past 3 years?",
     "Are there noticeable trends in the types of payments made by employees aged 30-40, specifically looking at transfers in and additional voluntary payments (AVC)?",
     "What percentage of total contributions do 50-60 year olds make as single payments, and how has this changed over the last 5 years?",
@@ -2253,7 +2253,7 @@
     "Is the total amount of employer regular contributions increasing or decreasing for members aged 30-40 over the past 5 years?",
     "How much money are members aged 20-30 transferring into the scheme compared to those aged 30-40 for the past 4 years?"
     ],
-  "payments_in-gender": [
+  "membership.payments_in_x_gender": [
     "Compare the total employer regular contributions for males and females in the last 3 years.",
     "What percentage of single payments into the scheme are made by male employees?",
     "How do transfers in from other schemes by female members vary compared to male members over the past 5 years?",
@@ -2332,7 +2332,7 @@
     "Are there more transfers in than employee regular contributions for males or females?",
     "Do males or females have a higher total amount of single payments into the scheme?"
   ],
-  "payments_in-none": [
+  "membership.payments_in": [
     "How do the total employer regular contributions compare to employee regular contributions in the last 3 years?",
     "What percentage of total payments are transfers in, and how has this changed over the past 5 years?",
     "Can you provide a breakdown of single payments versus additional voluntary payments (AVC) for the current year?",
@@ -2411,7 +2411,7 @@
     "Has there been a noticeable trend in the proportion of transfers in relative to total payments over the past 3 years?",
     "Are single payments increasing or decreasing relative to transfers in?"
   ],
-  "payments_in-salary": [
+  "membership.payments_in_x_salary": [
     "How do employee regular contributions vary across different salary bands over the past 5 years?",
     "What percentage of single payments are made by members with salaries between £40k and £60k?",
     "Are transfers in from other schemes more common among mid-level earners (£50k - £70k) compared to higher earners?",
@@ -2491,7 +2491,7 @@
     "Examine the change in the proportion of additional voluntary payments (AVC) for employees earning £60k - £70k over the last 4 years.",
     "Has there been a noticeable increase in the sum of employee regular contributions for employees earning £30k - £40k in the past 2 years?"
     ],
-  "payments_in-years_in_scheme": [
+  "membership.payments_in_x_years_in_scheme": [
     "What types of payments have members who have been in the scheme for 5 years or more been making, and how has this pattern changed over the past 3 years?",
     "Compare the total amount of employer contributions to employee contributions specifically for members who joined the scheme within the last 2 years.",
     "Do members who have been in the scheme for a longer duration tend to transfer in more money from other schemes, and how has this trend evolved over the past 4 years?",
@@ -2570,7 +2570,7 @@
     "Compare the sum of transfers in for members who have been in the scheme for 3-4 years to the total member contributions for the past 3 years.",
     "How has the total amount of member contributions from individuals who have been in the scheme for over 2 years changed over the past 5 years, and how does it compare to other payment types?"
   ],
-  "payments_in-years_to_retirement": [
+  "membership.payments_in_x_years_to_retirement": [
     "What are the predominant types of payments made by individuals within 5 years of retirement, and how has this distribution changed over the past 3 years?",
     "Compare the total employer contributions to employee contributions for members within 2 years of retirement in the last 4 years.",
     "Do members who are closer to retirement tend to transfer larger amounts from other schemes compared to those who are farther away?",
@@ -2714,7 +2714,7 @@
     "Is there a noticeable increase in the proportion of employee regular contributions for members within 6 years of retirement over the past 2 years?",
     "Explore the change in the sum of additional voluntary payments (AVC) for individuals around 9 years from retirement compared to other payment categories"
   ],
-  "payments_out-age": [
+  "membership.payments_out_x_age": [
     "Are younger members more likely to transfer out their pension funds or access them for retirement?",
     "How do death claims compare between younger and older members of the scheme?",
     "Do older members tend to have higher retirement access payments compared to younger members?",
@@ -2755,7 +2755,7 @@
     "How do retirement access payments for members in their 60s compare to those in their 70s?",
     "Are there any differences in the types of payments out for members aged 45-55 compared to those aged 55-65?"
   ],
-  "payments_out-gender": [
+  "membership.payments_out_x_gender": [
     "How do the amounts transferred out from the scheme by male members compare to death claims for the past three years?",
     "Are retirement access payments for female members increasing over the last five years?",
     "What percentage of total payments out were death claims for male members in 2020?",
@@ -2837,7 +2837,7 @@
     "How do the amounts withdrawn by female members for retirement access in 2021 compare to 2019?",
     "Are there any significant changes in the types of payments being made out of the scheme for male members in 2023?"
     ],
-  "payments_out-none": [
+  "membership.payments_out": [
     "How have transfers out of the scheme evolved over the past 5 years?",
     "What is the trend in retirement access payments from the pension scheme?",
     "Can you provide a breakdown of death claims by year and the changes observed?",
@@ -2916,7 +2916,7 @@
     "Is there a noticeable increase in the frequency of transfers out payments this quarter?",
     "How does the distribution of retirement access payments compare to the overall trend in the last 5 years?"
     ],    
-  "payments_out-salary": [
+  "membership.payments_out_x_salary": [
     "How have retirement access payments changed over the past 5 years for employees earning above £50k?",
     "What percentage of total payments out in 2023 were death claims for members with salaries between £30k and £40k?",
     "Are there noticeable trends in the amounts transferred out of the scheme by employees earning over £60k over the last two years?",
@@ -2992,7 +2992,7 @@
     "Are there any noticeable changes in the patterns of death claims for employees earning over £70k over the past 3 years?",
     "What percentage of total scheme payouts in 2017 were transfers out, and how does this differ for employees with salaries above £60k?"
   ],
-  "payments_out-years_in_scheme": [
+  "membership.payments_out_x_years_in_scheme": [
     "How have transfers out of the scheme evolved over the past 5 years for members who recently retired?",
     "In 2023, what percentage of death claims were made by members in the scheme for more than 15 years?",
     "Compare the trends in retirement access payments between 2018 and 2022 for members in the scheme for 5-10 years.",
@@ -3075,7 +3075,7 @@
     "Has there been a decrease in transfers out of the scheme for members who have been in the scheme for 6-8 years in the past 3 years?",
     "What percentage of death claims payouts were made to members who have been in the scheme for 1-4 years in 2011?"
     ],    
-  "payments_out-years_to_retirement": [
+  "membership.payments_out_x_years_to_retirement": [
     "How do retirement access payments for members within 2 years of retirement compare to death claims in the last quarter of 2023?",
     "What is the trend in transfers out for members who are 3 years away from retirement over the past 5 years?",
     "Are there noticeable changes in the distribution of death claims for members who retired in 2020 compared to those who retired in 2018?",
@@ -3154,13 +3154,13 @@
     "Are there significant differences in the amounts withdrawn for death claims for members who retire within 2 years of their planned retirement date?",
     "How does the frequency of transfers out change for members who are 4 years away from retirement compared to those who are 9 years away?"
   ],
-  "registered_users-age": [],
-  "registered_users-gender": [],
-  "registered_users-none": [],
-  "registered_users-salary": [],
-  "registered_users-years_in_scheme": [],
-  "registered_users-years_to_retirement": [],
-  "regular_contributions-age": [
+  "engagement.registered_users_x_age": [],
+  "engagement.registered_users_x_gender": [],
+  "engagement.registered_users": [],
+  "engagement.registered_users_x_salary": [],
+  "engagement.registered_users_x_years_in_scheme": [],
+  "engagement.registered_users_x_years_to_retirement": [],
+  "membership.regular_contributions_x_age": [
     "What percentage of members aged 25-35 contribute less than 3% to their pensions regularly?",
     "Do younger members (under 30) tend to contribute a smaller portion of their salary to their pensions?",
     "Among members in their 40s, how many are making contributions in the 7-10% range?",
@@ -3202,7 +3202,7 @@
     "How many members aged 55 and above contribute less than 3% of their salary to their pensions?",
     "Among members in their 30s, how many are making contributions in the 10-12% range?"
   ],
-  "regular_contributions-gender": [
+  "membership.regular_contributions_x_gender": [
     "What percentage of male members contribute less than 3% of their salary to their pension regularly?",
     "Do female employees tend to contribute more to their pension schemes compared to males?",
     "How many male members are contributing between 3-5% of their salary to their pensions?",
@@ -3243,7 +3243,7 @@
     "Which gender has a higher percentage of members contributing 3-5% of their salary to their pensions?",
     "Do female employees contribute more on average to their pensions than male employees?"
   ],
-  "regular_contributions-none": [
+  "membership.regular_contributions": [
     "How many employees contribute less than 3% of their salary to the pension regularly?",
     "What percentage of members contribute between 3% and 5% to their pensions?",
     "How many members are making moderate contributions in the range of 7-10%?",
@@ -3284,7 +3284,7 @@
     "How many members are making large regular contributions compared to those who aren't contributing much at all?",
     "How much are most members making in contributions to their pensions on a regular basis?"
   ],
-  "regular_contributions-salary": [
+  "membership.regular_contributions_x_salary": [
     "What percentage of employees earning below 40k contribute less than 5% to their pensions regularly?",
     "Do members with salaries between 40k and 60k tend to contribute more than those earning between 60k and 80k?",
     "How many individuals making over 100k contribute less than 7% to their pension fund?",
@@ -3327,7 +3327,7 @@
     "What is the average contribution percentage for employees with salaries between 50k and 70k?",
     "How many members earning 80k-100k contribute less than 9% to their pension funds?"
   ],
-  "regular_contributions-years_in_scheme": [
+  "membership.regular_contributions_x_years_in_scheme": [
     "What percentage of members with over 4 years in the scheme contribute less than 3% regularly?",
     "Are those who've been in the scheme for 3 years or more more likely to contribute 7-10% of their salary to their pension?",
     "Do members who have been in the scheme for a while tend to contribute between 3-5% regularly?",
@@ -3367,7 +3367,7 @@
     "Are those who've been in the scheme for 2 years or more more likely to contribute between 5-7% regularly?",
     "Do members with over 3 years of membership tend to contribute less than 3% or more than 7% regularly?"
   ],
-  "regular_contributions-years_to_retirement": [
+  "membership.regular_contributions_x_years_to_retirement": [
     "Do members nearing retirement usually contribute less than 3% to their pensions?",
     "Are pension contributions higher for employees closer to retirement?",
     "Do those approaching retirement tend to have higher pension contribution rates?",
@@ -3416,7 +3416,7 @@
     "Do pension contributions typically rise as employees get closer to retirement?",
     "Is there a positive relationship between proximity to retirement and higher pension contributions?"
   ],
-  "retirement_ages-age": [
+  "engagement.ret_age_x_age": [
     "How many members in the scheme have selected retirement ages under 60?",
     "What percentage of members have chosen a retirement date within the 60-65 age range?",
     "Among younger members, what is the typical selected retirement age?",
@@ -3501,7 +3501,7 @@
     "How do retirement age selections differ between various age groups?",
     "What's the average retirement age expectation for members aged 50 and above?"
     ],    
-  "retirement_ages-gender": [
+  "engagement.ret_age_x_gender": [
     "How many male members have selected retirement ages under 60 compared to female members?",
     "What is the typical selected retirement age for men in the pension scheme?",
     "Do more women or men aim to retire after the age of 65?",
@@ -3542,7 +3542,7 @@
     "What's the proportion of female members aiming for retirement ages under 60?",
     "How does the selected retirement age distribution differ between male and female members?"
 ],
-  "retirement_ages-none": [
+  "engagement.ret_age": [
     "What is the selected retirement age for the majority of members?",
     "How many members have chosen to retire before turning 60?",
     "What age range do most members aim to retire within?",
@@ -3585,7 +3585,7 @@
     "Are the majority of members planning to retire before or after their normal retirement age?",
     "What proportion of members plan to retire at age 65 or older?"
   ],
-  "retirement_ages-salary": [
+  "engagement.ret_age_x_salary": [
     "What's the average selected retirement age for members earning over £80k?",
     "How many members earning between £40k and £60k have chosen to retire at age 65 or older?",
     "What percentage of employees earning less than £50k plan to retire under the age of 60?",
@@ -3669,7 +3669,7 @@
     "What's the common retirement age for individuals earning less than 80k?",
     "How do selected retirement ages vary across different salary ranges?"
     ],
-  "retirement_ages-years_in_scheme": [
+  "engagement.ret_age_x_years_in_scheme": [
     "What age range do members who have been in the scheme for over 5 years typically select as their retirement date?",
     "How many members who've been in the scheme for less than 10 years are aiming to retire before they turn 60?",
     "Do newer scheme members tend to choose a later selected retirement age compared to longer-standing members?",
@@ -3752,7 +3752,7 @@
     "Is there a difference in selected retirement age between employees with 5-10 years and 10-15 years in the scheme?",
     "Do members with 10-15 years in the scheme show a preference for retiring before 60 or after?"
   ],  
-  "retirement_ages-years_to_retirement": [
+  "engagement.ret_age_x_years_to_retirement": [
     "What is the average selected retirement age for members who are within 5 years of retirement?",
     "How many scheme members who are close to retirement have selected a retirement age under 60?",
     "What proportion of members who are within 10 years of retirement expect to retire at normal retirement age?",
@@ -3834,7 +3834,7 @@
     "Is the selected retirement age higher for members who are further away from retirement?",
     "How many scheme members aiming to retire after 60 but before 65 are within 5 years of retirement?"
     ],
-  "total_assets_under_management-age": [
+  "investments.total_aum_x_age": [
     "What is the overall pension pot for members under 40?",
     "How does the total pension fund value for members aged 40-50 compare to those under 30?",
     "Is the total assets under management higher for members in their 50s or 60s?",
@@ -3878,7 +3878,7 @@
     "Are there any notable differences in the total pension fund value between members aged 30-40 and those aged 40-50?",
     "What is the split of total assets under management between members aged 30-40 and those aged 40-50?"
   ],
-  "total_assets_under_management-gender": [
+  "investments.total_aum_x_gender": [
     "How has the total pension fund value been distributed between males and females over the past 5 years?",
     "Can you provide insights into the changing proportions of pension assets for men and women from 2019 to 2023?",
     "What trends are observed in the split of assets under management for male and female members?",
@@ -3919,7 +3919,7 @@
     "Analyze the variations in the split of assets under management for males and females over the past 5 years.",
     "Compare the trends in pension fund distribution for male and female members in the year 2023."
   ],
-  "total_assets_under_management-none": [
+  "investments.total_aum": [
     "Can you give me an overview of the total pension fund value for the past 5 years?",
     "How's the overall worth of all pensions for our members evolved in recent years?",
     "What's the current trend in the total value of assets under management?",
@@ -3961,7 +3961,7 @@
     "Provide insights into the variations in total assets under management since 2017.",
     "How's the total pension pot looking this year compared to the previous ones?"
   ],
-  "total_assets_under_management-salary": [
+  "investments.total_aum_x_salary": [
     "How is the total pension fund value distributed among different salary brackets?",
     "Can you provide insights into the breakdown of assets under management across various income levels?",
     "What trends are observed in the total pension fund value for different salary ranges over the past 5 years?",
@@ -4002,7 +4002,7 @@
     "Examine the distribution of total pension fund value for employees earning 10k-15k in 2021 and 2024.",
     "How has the percentage change in assets under management for employees with salaries above 60k compared to those below 40k evolved over the last 5 years?"
   ],
-  "total_assets_under_management-years_in_scheme": [
+  "investments.total_aum_x_years_in_scheme": [
     "How does the total pension fund value break down between veteran members (5+ years) and recent joiners?",
     "What's the split in assets under management between longer-tenured employees and those who joined recently?",
     "Is there a shift in the distribution of total pension value over time, particularly for members with a tenure of 7 years or more?",
@@ -4044,7 +4044,7 @@
     "What's the variation in total pension value for members with 10 or more years of tenure over the last 3 years?",
     "Is there a significant shift in the distribution of total assets under management for employees with 1 year or less of tenure?"
   ],
-  "total_assets_under_management-years_to_retirement": [
+  "investments.total_aum_x_years_to_retirement": [
     "How does the total pension fund value break down between members nearing retirement and those with more years to go?",
     "What's the split in assets under management for employees close to retirement versus those with 15+ years left?",
     "Can you provide insights into the distribution of total pension assets among members nearing retirement and those farther away?",
